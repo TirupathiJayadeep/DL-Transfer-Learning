@@ -12,29 +12,31 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+Load and normalize data, create sequences.
+
 
 ### STEP 2: 
 
+Convert data to tensors and set up DataLoader.
 
 
 ### STEP 3: 
+Define the RNN model architecture.
 
 
 
 ### STEP 4: 
 
+Summarize, compile with loss and optimizer.
 
 
 ### STEP 5: 
-
+Train the model with loss tracking.
 
 
 ### STEP 6: 
 
-
-
-
+Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
